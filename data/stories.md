@@ -1,0 +1,3001 @@
+## story1
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye
+   
+## story2
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye
+
+## story3
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye
+
+## story4
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye
+
+## story5
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye
+
+## story6
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye
+
+## story7
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye
+
+## story8
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye
+
+## story9
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye
+
+## story10
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye
+
+## story11
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye
+
+## story12
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye
+
+
+   
+
+## story25
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story26
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story27
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story28
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story29
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story30
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story31
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story32
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story33
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story34
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+
+## story35
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+## story36
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye 
+                       
+
+
+
+## story49
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story50
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+
+## story51
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story52
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story53
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+
+## story54
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+
+## story55
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story56
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye
+
+## story57
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye
+
+## story58
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye
+
+## story59
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye
+
+## story60
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye
+            
+## story61
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story62
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story63
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye  
+
+## story64
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story65
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story66
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story67
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story68
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story69
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story70
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+
+## story71
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+## story72
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye 
+
+
+## story85
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story86
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story87
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story88
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story89
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story90
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story91
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story92
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story93
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story94
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+
+## story95
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+## story96
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye  
+
+## story97
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story98
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story99
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story100
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye
+
+## story101
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye
+
+## story102
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye
+
+## story103
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story104
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story105
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story106
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye
+
+## story107
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye
+
+## story108
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* confirm_lavage
+  - utter_description_lavage
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye
+
+
+## story120
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye 
+
+## story121
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story122
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story123
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story124
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story125
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story126
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story127
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story128
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story129
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story130
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+
+## story131
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+## story132
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* confirm_motorisé
+  - utter_lavage
+* deny_lavage
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye 
+
+## story133
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story134
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story135
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story136
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story137
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story138
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story139
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story140
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story141
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story142
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electronique
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+
+## story143
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electronique
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+## story144
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+*deny_enfants
+  - utter_ask_restaurant
+* deny_restaurant
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electronique
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye
+
+
+## story156
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story157
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story158
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story159
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story160
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story161
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story162
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+
+## story163
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story164
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story165
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+
+## story166
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+
+## story167
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* confirm_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye 
+
+## story168
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+## story169
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story170
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story171
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story172
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+ 
+## story173
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+## story174
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye 
+   
+## story175
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye 
+
+## story176
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye 
+
+## story177
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye 
+  
+## story178
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye 
+
+## story179
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* deny_enfants
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye 
+
+
+
+## story204
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_1
+  - utter_url_boutique_vetement_1
+  - utter_goodbye 
+
+
+## story205
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_2
+  - utter_url_boutique_vetement_2
+  - utter_goodbye 
+
+## story206
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_vetement
+  - utter_ask_boutique_vetement
+* confirm_boutique_vetement_3
+  - utter_url_boutique_vetement_3
+  - utter_goodbye 
+
+## story207
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_1
+  - utter_goodbye 
+
+## story208
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_2
+  - utter_goodbye 
+
+## story209
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_cosmetique
+  - utter_ask_boutique_cosmetique
+* confirm_boutique_cosmetique_3
+  - utter_url_boutique_cosmetique_3
+  - utter_goodbye 
+
+
+## story210
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_1
+  - utter_url_boutique_electronique_1
+  - utter_goodbye   
+
+## story211
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_2
+  - utter_url_boutique_electronique_2
+  - utter_goodbye   
+
+## story212
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electronique
+  - utter_ask_boutique_electronique
+* confirm_boutique_electronique_3
+  - utter_url_boutique_electronique_3
+  - utter_goodbye   
+
+
+## story213
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_1
+  - utter_url_boutique_electromenager_1
+  - utter_goodbye        
+
+
+## story214
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_2
+  - utter_url_boutique_electromenager_2
+  - utter_goodbye         
+
+## story215
+* greet
+  - utter_greet
+  - utter_ask_motorisé
+* deny_motorisé
+  - utter_ask_enfants
+* confirm_enfants
+  - utter_description_loisirs 
+  - utter_ask_loisirs
+* deny_loisirs
+  - utter_description_jeux_prix
+  - utter_ask_restaurant
+* confirm_restaurant
+  - utter_utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_category_shopping
+* confirm_electromenager
+  - utter_ask_boutique_electromenager
+* confirm_boutique_electromenager_3
+  - utter_url_boutique_electromenager_3
+  - utter_goodbye              
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

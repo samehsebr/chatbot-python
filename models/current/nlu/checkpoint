@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sameh/Bureau/sameh/models/current/nlu/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/sameh/Bureau/sameh/models/current/nlu/intent_classifier_tensorflow_embedding.ckpt"

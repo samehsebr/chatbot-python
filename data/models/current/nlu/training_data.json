@@ -1,0 +1,112 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "bonjour", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "bjr", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "goodmorning", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey dude", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "bnjr", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "salut", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "slt", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "ggodbye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "au revoir", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "a plus", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "a bientot", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "a la prochaine", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "oui,je suis motorisé", 
+        "intent": "confirm_motorisé"
+      }, 
+      {
+        "text": "non je ne suis pas :(", 
+        "intent": "deny_motorisé"
+      }, 
+      {
+        "text": "oui je veux", 
+        "intent": "confirm_lavage"
+      }, 
+      {
+        "text": "non, merci", 
+        "intent": "deny_lavage"
+      }, 
+      {
+        "text": "oui j'en ai", 
+        "intent": "confirm_enfants"
+      }, 
+      {
+        "text": "non pas encore", 
+        "intent": "deny_enfants"
+      }, 
+      {
+        "text": "bonne idée je veux voir", 
+        "intent": "confirm_loisirs"
+      }, 
+      {
+        "text": "oui, pourquoi pas", 
+        "intent": "confirm_restaurant"
+      }, 
+      {
+        "text": "no je veux pas , merci", 
+        "intent": "deny_restaurant"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}

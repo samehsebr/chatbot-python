@@ -1,0 +1,245 @@
+--- 
+actions: 
+  - utter_greet
+  - utter_lavage
+  - utter_goodbye
+  - utter_description_lavage
+  - utter_ask_motorisé
+  - utter_ask_enfants
+  - utter_description_loisirs
+  - utter_ask_loisirs
+  - utter_description_jeux_prix
+  - utter_description_restaurant_general
+  - utter_restaurant_1
+  - utter_restaurant_2
+  - utter_ask_boutique_vetement
+  - utter_ask_boutique_cosmetique
+  - utter_ask_boutique_electromenager
+  - utter_ask_boutique_electronique
+  - utter_url_boutique_vetement_1
+  - utter_url_boutique_vetement_2
+  - utter_url_boutique_vetement_3
+  - utter_url_boutique_cosmetique_1
+  - utter_url_boutique_cosmetique_2
+  - utter_url_boutique_cosmetique_3
+  - utter_url_boutique_electronique_1
+  - utter_url_boutique_electronique_2
+  - utter_url_boutique_electronique_3
+  - utter_url_boutique_electromenager_1
+  - utter_url_boutique_electromenager_2
+  - utter_url_boutique_electromenager_3
+intents: 
+  - greet
+  - confirm_motorisé
+  - deny_motorisé
+  - confirm_lavage
+  - deny_lavage
+  - confirm_enfants
+  - deny_enfants
+  - confirm_loisirs
+  - deny_loisirs
+  - confirm_restaurant
+  - deny_restaurant
+  - confirm_vetement
+  - confirm_electronique
+  - confirm_electromenager
+  - confirm_cosmetique
+  - confirm_boutique_vetement_1
+  - confirm_boutique_vetement_2
+  - confirm_boutique_vetement_3
+  - confirm_boutique_cosmetique_1
+  - confirm_boutique_cosmetique_2
+  - confirm_boutique_cosmetique_3
+  - confirm_boutique_electronique_1
+  - confirm_boutique_electronique_2
+  - confirm_boutique_electronique_3
+  - confirm_boutique_electromenager_1
+  - confirm_boutique_electromenager_2
+  - confirm_boutique_electromenager_3
+templates: 
+  utter_ask_boutique_cosmetique: 
+    - 
+      buttons: 
+        - 
+          payload: "cosmaplus "
+          title: cosmaplus
+        - 
+          payload: "azza "
+          title: azza
+        - 
+          payload: fatales
+          title: "fatales "
+      text: "veuillez-choisir le boutique qui vous convient :)"
+  utter_ask_boutique_electromenager: 
+    - 
+      buttons: 
+        - 
+          payload: "boutique1 "
+          title: boutique1
+        - 
+          payload: "boutique2 "
+          title: boutique2
+        - 
+          payload: boutique3
+          title: "boutique3 "
+      text: "veuillez-choisir le boutique qui vous convient :)"
+  utter_ask_boutique_electronique: 
+    - 
+      buttons: 
+        - 
+          payload: "newstar "
+          title: newstar
+        - 
+          payload: "boutique1 "
+          title: boutique1
+        - 
+          payload: boutique2
+          title: "boutique2 "
+      text: "veuillez-choisir le boutique qui vous convient :)"
+  utter_ask_boutique_vetement: 
+    - 
+      buttons: 
+        - 
+          payload: "exist "
+          title: exist
+        - 
+          payload: "jenyfer "
+          title: jenyfer
+        - 
+          payload: bershka
+          title: "bershka "
+      text: "veuillez-choisir le boutique qui vous convient :)"
+  utter_ask_category_shopping: 
+    - 
+      buttons: 
+        - 
+          payload: "vetement "
+          title: vetement
+        - 
+          payload: "electronique "
+          title: electronique
+        - 
+          payload: cosmetique
+          title: "cosmetique "
+        - 
+          payload: electromenager
+          title: "electromenager "
+      text: "maintenant c’est le temps de shopping vous etes venue ici pour faire un shopping n’est ce pas ? veuillez choisir la case qui vous convient "
+  utter_ask_enfants: 
+    - 
+      buttons: 
+        - 
+          payload: "oui j'en ai"
+          title: "oui j'en ai"
+        - 
+          payload: "non pas encore "
+          title: "non pas encore "
+      text: "est ce que vous etes mariés ? Je veux savoir si vous etes accompagnés des enfants ? Je suis un bot curieux hhhh je veux savoir tous:p"
+  utter_ask_loisirs: 
+    - 
+      buttons: 
+        - 
+          payload: "bonne idée je veux voir "
+          title: "bonne idée je veux voir "
+        - 
+          payload: "non, merci "
+          title: "non, merci "
+      text: "pensez-vous a etre libre pendant votre tour ? Je sais que les enfants vous derangent un peu: p On a tous des enfants aa pardon je suis un bot j’ai pas des enfants:p hhh "
+  utter_ask_motorisé: 
+    - 
+      buttons: 
+        - 
+          payload: "oui,je suis motorisé"
+          title: "oui,je suis motorisé"
+        - 
+          payload: "non je ne suis pas :("
+          title: "non je ne suis pas :("
+      text: "Bienvenue chez nous votre satisfaction est une priorité pour nous Si non vous etes motorisés"
+  utter_ask_restaurant: 
+    - 
+      buttons: 
+        - 
+          payload: "oui, pourquoi pas "
+          title: "oui, pourquoi pas "
+        - 
+          payload: "non je veux pas , merci "
+          title: "non je veux pas , merci "
+      text: "On dispose aussi d’un bon service de restauration si vous pensez a manger on peut vous guider"
+
+
+  utter_description_restaurant_general:
+
+    -text: "hello"
+  utter_description_jeux_prix: 
+    - 
+      text: "on a pensé a vous et on vous propose de vous en profiter denotre centre de loisirs nous disposons des d’une multitude de jeux pour vos enfants ,on a aussi des salles de cinema 3d pour le prix vous serez ravis san doute :p "
+  utter_description_lavage: 
+    - 
+      image: "https://i.imgur.com/LYt9O5Q.jpg"
+      text: "notre service de lavage dure a peu pres 30 minutes nos prix sont a la portée de tous le monde ca va vous coutera seulement 5 dinars"
+  utter_description_loisirs: 
+    - 
+      image: "https://i.imgur.com/2VjGvoM.jpg"
+      text: "voici une image qui correspond a notre salle de cine 3d et a notre espace de loisirs "
+  utter_goodbye: 
+    - 
+      text: "j’espère que je vous ai été utile vous serez toujours les bienvenues si vous avez quelque chose a demander je suis la et je suis un bot tres gentil: p donc je peux vous repondre :p "
+  utter_greet: 
+    - 
+      text: "Bonjour je m’appelle Iron je suis un bot tres intelligent  ,j’aime les humains:p je suis destiné a vous aider  "
+  utter_lavage: 
+    - 
+      text: "on a pensé a vous pour cela on vous offre l’oppurtinité pour faire un lavage a votre voiture le  temps que vous faisez votre tour de shopping et pour que tu perds par votre temps ailleurs"
+  utter_restaurant_1: 
+    - 
+      image: "https://i.imgur.com/6tGei7k.jpg"
+      text: "voila l'image qui correspond au menu de ce restaurant "
+  utter_restaurant_2: 
+    - 
+      image: "https://i.imgur.com/WSabnhJ.jpg "
+      text: "voila la specialité de ce restaurant "
+  
+  utter_url_boutique_vetement_1:
+    -
+      text: "nkenfhoéjepof"
+  utter_url_boutique_vetement_2:
+    -
+      text: "zekej"
+
+  utter_url_boutique_vetement_3:
+    -
+      text: "ejfejflkhef"  
+
+
+  utter_url_boutique_electronique_1:
+    -
+      text: "ekfjpjfo"
+  utter_url_boutique_electronique_2:
+    -
+      text: "zlfpjzofh"
+
+  utter_url_boutique_electronique_3:
+    -
+      text: "zljjzv"      
+
+  utter_url_boutique_electromenager_1:
+    -
+      text: "fjeo"
+  utter_url_boutique_electromenager_2:
+    -
+      text: "zlekfpef"
+
+  utter_url_boutique_electromenager_3:
+    -
+      text: "zlmejpjzev"   
+      
+  utter_url_boutique_cosmetique_1:
+    -
+      text: "zkekhzro"
+  utter_url_boutique_cosmetique_2:
+    -
+      text: "hkljmzjef"
+
+  utter_url_boutique_cosmetique_3:
+    -
+      text: "hhhhhhhhh"                 
